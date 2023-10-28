@@ -1,5 +1,5 @@
 # Reproduce Dream Diffusion
-In this repository I reproduced Dream Diffusion paper in Colab environment. Pre-trained EEG representation and use author checkpoints to generate images.
+In this repository I reproduced Dream Diffusion paper in Colab environment, pre-trained EEG representation and use author checkpoints to generate images.
 
 EEG pre-trained on 500 epochs: https://drive.google.com/file/d/1-6TW8MsvIrGaDNLBSpXHol8Zb5aX5FBU/view?usp=sharing
 
