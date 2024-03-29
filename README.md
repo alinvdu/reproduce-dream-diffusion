@@ -1,12 +1,15 @@
 # Reproduce Dream Diffusion
 In this repository I reproduced Dream Diffusion paper in Colab environment, pre-trained EEG representation and use author checkpoints to generate images.
 
-EEG pre-trained on 500 epochs: https://drive.google.com/file/d/1-6TW8MsvIrGaDNLBSpXHol8Zb5aX5FBU/view?usp=sharing
+EEG pre-trained on 500 epochs: https://drive.google.com/file/d/1G79aAmd2pO4ZPuu9FC6dI_A4gqmAuiJu/view?usp=sharing
 
 Some results:
 
 ![download](https://github.com/bobergsatoko/reproduce-dream-diffusion/assets/16021447/59a6b9cb-340d-47a3-a30b-dd5ac45e4af7)
 ![download](https://github.com/bobergsatoko/reproduce-dream-diffusion/assets/16021447/65dfc451-1085-4fbd-a143-eff7a2dfcda3)
+
+### Promo
+Neural art is a dream diffusion implementation which leverages a 14 channels EEG with 1024 time points that can be used to generate art images. Same architecture trained with art images from a midjourney stable diffusion model. Check it out here: https://github.com/alinvdu/neural-art
 
 Copyright notice:
 MIT License
