@@ -3,6 +3,8 @@ In this repository I reproduced Dream Diffusion paper in Colab environment, pre-
 
 EEG pre-trained on 500 epochs: https://drive.google.com/file/d/1G79aAmd2pO4ZPuu9FC6dI_A4gqmAuiJu/view?usp=sharing
 
+EEG data for preprocessing: https://tinyurl.com/eeg-visual-classification -> eeg_5_95_std.pth (use the initial notebook cells to preprocess this file into multiple .npy).
+
 ### Promo
 Neural art is a dream diffusion implementation which leverages a 14 channels EEG with 1024 time points that can be used to generate art images. Same architecture trained with art images from a midjourney stable diffusion model. Check it out here: https://github.com/alinvdu/neural-art
 
